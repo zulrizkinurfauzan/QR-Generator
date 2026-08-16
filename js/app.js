@@ -426,7 +426,7 @@
 
   var _ctx = new Date().getTime();
   try {
-    console.log('%cQR Generator dilindungi dari penyalinan.', 'color:#ec4899;font-size:14px;font-weight:bold;');
+    console.log('%cKris dilindungi dari penyalinan.', 'color:#ec4899;font-size:14px;font-weight:bold;');
   } catch (e) {}
 
   document.addEventListener('contextmenu', function (e) { e.preventDefault(); return false; });
